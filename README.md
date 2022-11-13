@@ -1,6 +1,4 @@
-# Mina zkApp: Mans Zkapp
-
-This template uses TypeScript.
+# Mans: Mina Anonymous Name Service based on actions/zkprogram of SnarkyJs.
 
 ## How to build
 
@@ -8,17 +6,10 @@ This template uses TypeScript.
 npm run build
 ```
 
-## How to run tests
+## How to run demo test
 
 ```sh
-npm run test
-npm run testw # watch mode
-```
-
-## How to run coverage
-
-```sh
-npm run coverage
+npm run mans
 ```
 
 ## License
